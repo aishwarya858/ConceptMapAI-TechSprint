@@ -1,4 +1,5 @@
 # ConceptMapAI-TechSprint
+
 TechSprint (Solo Poject) overview:
 
 As a first semester student, I noticed how complex a few topics or subjects feel for students like me who have just entered Engineering. This is where ConceptMap AI comes into the picture. 
@@ -19,3 +20,10 @@ How to Run:
 2) Install dependencies: pip install -r requirements.txt
 3) Add your Gemini API Key to your environment secrets
 4) Run: streamlit run app.py
+
+Live App: https://qqmy5s2wwooxfdtofswnau.streamlit.app/
+
+How to use: 
+1. Paste the link to your browser
+2. Paste notes to be summarized
+3. Click Generate Study Map
