@@ -1,5 +1,6 @@
 # ConceptMapAI-TechSprint
-TechSprint (Solo Poject) overview
+TechSprint (Solo Poject) overview:
+
 As a first semester student, I noticed how complex a few topics or subjects feel for students like me who have just entered Engineering. This is where ConceptMap AI comes into the picture. 
 ConceptMap AI uses Google's Gemini 2.5 Flash to convert complex paragraphs and topics into simple and easy to understand study guides.
 
